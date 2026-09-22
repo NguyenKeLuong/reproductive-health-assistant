@@ -1,0 +1,4267 @@
+[
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Puberty",
+    "url": "https://medlineplus.gov/puberty.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\puberty.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "CPR",
+    "url": "https://medlineplus.gov/cpr.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cpr.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Endocrine Diseases",
+    "url": "https://medlineplus.gov/endocrinediseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\endocrine-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Growth Disorders",
+    "url": "https://medlineplus.gov/growthdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\growth-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Healthy Sleep",
+    "url": "https://medlineplus.gov/healthysleep.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\healthy-sleep.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hydrocephalus",
+    "url": "https://medlineplus.gov/hydrocephalus.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hydrocephalus.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Klinefelter Syndrome",
+    "url": "https://medlineplus.gov/klinefeltersyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\klinefelter-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Spina Bifida",
+    "url": "https://medlineplus.gov/spinabifida.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\spina-bifida.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teen Sexual Health",
+    "url": "https://medlineplus.gov/teensexualhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teen-sexual-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Anabolic Steroids",
+    "url": "https://medlineplus.gov/anabolicsteroids.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\anabolic-steroids.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Child Development",
+    "url": "https://medlineplus.gov/childdevelopment.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\child-development.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Dandruff, Cradle Cap, and Other Scalp Conditions",
+    "url": "https://medlineplus.gov/dandruffcradlecapandotherscalpconditions.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\dandruff-cradle-cap-and-other-scalp-conditions.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hidradenitis Suppurativa",
+    "url": "https://medlineplus.gov/hidradenitissuppurativa.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hidradenitis-suppurativa.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Myasthenia Gravis",
+    "url": "https://medlineplus.gov/myastheniagravis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\myasthenia-gravis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teen Development",
+    "url": "https://medlineplus.gov/teendevelopment.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teen-development.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Thalassemia",
+    "url": "https://medlineplus.gov/thalassemia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\thalassemia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vaginal Bleeding",
+    "url": "https://medlineplus.gov/vaginalbleeding.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vaginal-bleeding.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teen Health",
+    "url": "https://medlineplus.gov/teenhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teen-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Anatomy",
+    "url": "https://medlineplus.gov/anatomy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\anatomy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cloning",
+    "url": "https://medlineplus.gov/cloning.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cloning.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Fungal Infections",
+    "url": "https://medlineplus.gov/fungalinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\fungal-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pubic Lice",
+    "url": "https://medlineplus.gov/pubiclice.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pubic-lice.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Head Lice",
+    "url": "https://medlineplus.gov/headlice.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\head-lice.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ebola",
+    "url": "https://medlineplus.gov/ebola.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ebola.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "H1N1 Flu (Swine Flu)",
+    "url": "https://medlineplus.gov/h1n1fluswineflu.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\h1n1-flu-swine-flu.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Body Lice",
+    "url": "https://medlineplus.gov/bodylice.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\body-lice.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Genes and Gene Therapy",
+    "url": "https://medlineplus.gov/genesandgenetherapy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\genes-and-gene-therapy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Women's Health",
+    "url": "https://medlineplus.gov/womenshealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\womens-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bacterial Infections",
+    "url": "https://medlineplus.gov/bacterialinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bacterial-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mosquito Bites",
+    "url": "https://medlineplus.gov/mosquitobites.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mosquito-bites.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HIV",
+    "url": "https://medlineplus.gov/hiv.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiv.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HIV in Women",
+    "url": "https://medlineplus.gov/hivinwomen.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiv-in-women.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Living with HIV",
+    "url": "https://medlineplus.gov/livingwithhiv.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\living-with-hiv.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HPV",
+    "url": "https://medlineplus.gov/hpv.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hpv.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HIV Medicines",
+    "url": "https://medlineplus.gov/hivmedicines.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiv-medicines.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Lyme Disease",
+    "url": "https://medlineplus.gov/lymedisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\lyme-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bird Flu",
+    "url": "https://medlineplus.gov/birdflu.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bird-flu.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vulvar Cancer",
+    "url": "https://medlineplus.gov/vulvarcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vulvar-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Children's Health",
+    "url": "https://medlineplus.gov/childrenshealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\childrens-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vitamin D Deficiency",
+    "url": "https://medlineplus.gov/vitaminddeficiency.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vitamin-d-deficiency.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vaginal Cancer",
+    "url": "https://medlineplus.gov/vaginalcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vaginal-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Giardia Infections",
+    "url": "https://medlineplus.gov/giardiainfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\giardia-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Kaposi Sarcoma",
+    "url": "https://medlineplus.gov/kaposisarcoma.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\kaposi-sarcoma.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Body Weight",
+    "url": "https://medlineplus.gov/bodyweight.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\body-weight.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pregnancy",
+    "url": "https://medlineplus.gov/pregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Phenylketonuria",
+    "url": "https://medlineplus.gov/phenylketonuria.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\phenylketonuria.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cervical Cancer Screening",
+    "url": "https://medlineplus.gov/cervicalcancerscreening.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cervical-cancer-screening.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Viral Infections",
+    "url": "https://medlineplus.gov/viralinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\viral-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Genetic Disorders",
+    "url": "https://medlineplus.gov/geneticdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\genetic-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Birth Control",
+    "url": "https://medlineplus.gov/birthcontrol.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\birth-control.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cervical Cancer",
+    "url": "https://medlineplus.gov/cervicalcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cervical-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Primary Ovarian Insufficiency",
+    "url": "https://medlineplus.gov/primaryovarianinsufficiency.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\primary-ovarian-insufficiency.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Lung Diseases",
+    "url": "https://medlineplus.gov/lungdiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\lung-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Thyroid Diseases",
+    "url": "https://medlineplus.gov/thyroiddiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\thyroid-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Polycystic Ovary Syndrome",
+    "url": "https://medlineplus.gov/polycysticovarysyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\polycystic-ovary-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Valve Diseases",
+    "url": "https://medlineplus.gov/heartvalvediseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-valve-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Menstruation",
+    "url": "https://medlineplus.gov/menstruation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\menstruation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bullying and Cyberbullying",
+    "url": "https://medlineplus.gov/bullyingandcyberbullying.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bullying-and-cyberbullying.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Caregiver Health",
+    "url": "https://medlineplus.gov/caregiverhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\caregiver-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Childbirth",
+    "url": "https://medlineplus.gov/childbirth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\childbirth.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Flu",
+    "url": "https://medlineplus.gov/flu.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\flu.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Genital Warts",
+    "url": "https://medlineplus.gov/genitalwarts.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\genital-warts.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ovarian Disorders",
+    "url": "https://medlineplus.gov/ovariandisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ovarian-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Postpartum Care",
+    "url": "https://medlineplus.gov/postpartumcare.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\postpartum-care.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Turner Syndrome",
+    "url": "https://medlineplus.gov/turnersyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\turner-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tuberculosis",
+    "url": "https://medlineplus.gov/tuberculosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tuberculosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Calcium",
+    "url": "https://medlineplus.gov/calcium.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\calcium.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Radiation Exposure",
+    "url": "https://medlineplus.gov/radiationexposure.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\radiation-exposure.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Lupus",
+    "url": "https://medlineplus.gov/lupus.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\lupus.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diabetes and Pregnancy",
+    "url": "https://medlineplus.gov/diabetesandpregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diabetes-and-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pregnancy and Nutrition",
+    "url": "https://medlineplus.gov/pregnancyandnutrition.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pregnancy-and-nutrition.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Birth Defects",
+    "url": "https://medlineplus.gov/birthdefects.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\birth-defects.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Genetic Testing",
+    "url": "https://medlineplus.gov/genetictesting.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\genetic-testing.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heat Illness",
+    "url": "https://medlineplus.gov/heatillness.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heat-illness.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hemophilia",
+    "url": "https://medlineplus.gov/hemophilia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hemophilia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hormones",
+    "url": "https://medlineplus.gov/hormones.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hormones.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cesarean Delivery",
+    "url": "https://medlineplus.gov/cesareandelivery.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cesarean-delivery.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cushing's Syndrome",
+    "url": "https://medlineplus.gov/cushingssyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cushings-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Down Syndrome",
+    "url": "https://medlineplus.gov/downsyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\down-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Surgery",
+    "url": "https://medlineplus.gov/heartsurgery.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-surgery.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Older Adult Health",
+    "url": "https://medlineplus.gov/olderadulthealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\older-adult-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pituitary Tumors",
+    "url": "https://medlineplus.gov/pituitarytumors.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pituitary-tumors.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Wounds and Injuries",
+    "url": "https://medlineplus.gov/woundsandinjuries.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\wounds-and-injuries.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sexual Health",
+    "url": "https://medlineplus.gov/sexualhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sexual-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Antibiotic Resistance",
+    "url": "https://medlineplus.gov/antibioticresistance.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\antibiotic-resistance.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Lead Poisoning",
+    "url": "https://medlineplus.gov/leadpoisoning.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\lead-poisoning.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ovarian Cancer",
+    "url": "https://medlineplus.gov/ovariancancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ovarian-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pituitary Disorders",
+    "url": "https://medlineplus.gov/pituitarydisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pituitary-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Uterine Cancer",
+    "url": "https://medlineplus.gov/uterinecancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\uterine-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Uterine Diseases",
+    "url": "https://medlineplus.gov/uterinediseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\uterine-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "West Nile Virus",
+    "url": "https://medlineplus.gov/westnilevirus.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\west-nile-virus.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Wildfires",
+    "url": "https://medlineplus.gov/wildfires.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\wildfires.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Endometriosis",
+    "url": "https://medlineplus.gov/endometriosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\endometriosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Adrenal Gland Disorders",
+    "url": "https://medlineplus.gov/adrenalglanddisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\adrenal-gland-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Obesity",
+    "url": "https://medlineplus.gov/obesity.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\obesity.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Immune System and Disorders",
+    "url": "https://medlineplus.gov/immunesystemanddisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\immune-system-and-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cholesterol",
+    "url": "https://medlineplus.gov/cholesterol.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cholesterol.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hypothyroidism",
+    "url": "https://medlineplus.gov/hypothyroidism.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hypothyroidism.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Stress",
+    "url": "https://medlineplus.gov/stress.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\stress.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diabetes",
+    "url": "https://medlineplus.gov/diabetes.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diabetes.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hyperthyroidism",
+    "url": "https://medlineplus.gov/hyperthyroidism.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hyperthyroidism.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Metabolic Disorders",
+    "url": "https://medlineplus.gov/metabolicdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\metabolic-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Peripheral Nerve Disorders",
+    "url": "https://medlineplus.gov/peripheralnervedisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\peripheral-nerve-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Autoimmune Diseases",
+    "url": "https://medlineplus.gov/autoimmunediseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\autoimmune-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Blood Clots",
+    "url": "https://medlineplus.gov/bloodclots.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\blood-clots.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Dementia",
+    "url": "https://medlineplus.gov/dementia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\dementia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Eating Disorders",
+    "url": "https://medlineplus.gov/eatingdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\eating-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Exercise and Physical Fitness",
+    "url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\exercise-and-physical-fitness.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Benign Tumors",
+    "url": "https://medlineplus.gov/benigntumors.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\benign-tumors.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Crohn's Disease",
+    "url": "https://medlineplus.gov/crohnsdisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\crohns-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diabetes Type 2",
+    "url": "https://medlineplus.gov/diabetestype2.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diabetes-type-2.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Drug Use and Addiction",
+    "url": "https://medlineplus.gov/druguseandaddiction.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\drug-use-and-addiction.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Fibromyalgia",
+    "url": "https://medlineplus.gov/fibromyalgia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\fibromyalgia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "How to Improve Mental Health",
+    "url": "https://medlineplus.gov/howtoimprovementalhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\how-to-improve-mental-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sleep Disorders",
+    "url": "https://medlineplus.gov/sleepdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sleep-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vaccines",
+    "url": "https://medlineplus.gov/vaccines.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vaccines.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Anemia",
+    "url": "https://medlineplus.gov/anemia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\anemia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Breast Cancer",
+    "url": "https://medlineplus.gov/breastcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\breast-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hepatitis",
+    "url": "https://medlineplus.gov/hepatitis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hepatitis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Porphyria",
+    "url": "https://medlineplus.gov/porphyria.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\porphyria.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sickle Cell Disease",
+    "url": "https://medlineplus.gov/sicklecelldisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sickle-cell-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vaccine Safety",
+    "url": "https://medlineplus.gov/vaccinesafety.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vaccine-safety.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Alpha-1 Antitrypsin Deficiency",
+    "url": "https://medlineplus.gov/alpha1antitrypsindeficiency.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\alpha-1-antitrypsin-deficiency.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bleeding Disorders",
+    "url": "https://medlineplus.gov/bleedingdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bleeding-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Childhood Vaccines",
+    "url": "https://medlineplus.gov/childhoodvaccines.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\childhood-vaccines.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Congenital Heart Defects",
+    "url": "https://medlineplus.gov/congenitalheartdefects.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\congenital-heart-defects.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Craniofacial Abnormalities",
+    "url": "https://medlineplus.gov/craniofacialabnormalities.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\craniofacial-abnormalities.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Genital Herpes",
+    "url": "https://medlineplus.gov/genitalherpes.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\genital-herpes.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Disease in Women",
+    "url": "https://medlineplus.gov/heartdiseaseinwomen.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-disease-in-women.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "url": "https://medlineplus.gov/myalgicencephalomyelitischronicfatiguesyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\myalgic-encephalomyelitischronic-fatigue-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Opioids and Opioid Use Disorder (OUD)",
+    "url": "https://medlineplus.gov/opioidsandopioidusedisorderoud.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\opioids-and-opioid-use-disorder-oud.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Osteoporosis",
+    "url": "https://medlineplus.gov/osteoporosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\osteoporosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Post-Traumatic Stress Disorder",
+    "url": "https://medlineplus.gov/posttraumaticstressdisorder.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\post-traumatic-stress-disorder.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tetanus, Diphtheria, and Pertussis Vaccines",
+    "url": "https://medlineplus.gov/tetanusdiphtheriaandpertussisvaccines.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tetanus-diphtheria-and-pertussis-vaccines.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Urinary Tract Infections",
+    "url": "https://medlineplus.gov/urinarytractinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\urinary-tract-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Yeast Infections",
+    "url": "https://medlineplus.gov/yeastinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\yeast-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Behcet's Syndrome",
+    "url": "https://medlineplus.gov/behcetssyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\behcets-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Carpal Tunnel Syndrome",
+    "url": "https://medlineplus.gov/carpaltunnelsyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\carpal-tunnel-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Chlamydia Infections",
+    "url": "https://medlineplus.gov/chlamydiainfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\chlamydia-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Club Drugs",
+    "url": "https://medlineplus.gov/clubdrugs.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\club-drugs.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Colorectal Cancer",
+    "url": "https://medlineplus.gov/colorectalcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\colorectal-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Folic Acid",
+    "url": "https://medlineplus.gov/folicacid.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\folic-acid.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Attack",
+    "url": "https://medlineplus.gov/heartattack.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-attack.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Diseases",
+    "url": "https://medlineplus.gov/heartdiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "High Blood Pressure in Pregnancy",
+    "url": "https://medlineplus.gov/highbloodpressureinpregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\high-blood-pressure-in-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "How Much Exercise Do I Need?",
+    "url": "https://medlineplus.gov/howmuchexercisedoineed.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\how-much-exercise-do-i-need.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Insomnia",
+    "url": "https://medlineplus.gov/insomnia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\insomnia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Migraine",
+    "url": "https://medlineplus.gov/migraine.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\migraine.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Neurologic Diseases",
+    "url": "https://medlineplus.gov/neurologicdiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\neurologic-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Nutrition",
+    "url": "https://medlineplus.gov/nutrition.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\nutrition.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Obesity in Children",
+    "url": "https://medlineplus.gov/obesityinchildren.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\obesity-in-children.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Parathyroid Disorders",
+    "url": "https://medlineplus.gov/parathyroiddisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\parathyroid-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Skin Cancer",
+    "url": "https://medlineplus.gov/skincancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\skin-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Spinal Cord Injuries",
+    "url": "https://medlineplus.gov/spinalcordinjuries.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\spinal-cord-injuries.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Spinal Muscular Atrophy",
+    "url": "https://medlineplus.gov/spinalmuscularatrophy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\spinal-muscular-atrophy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sports Safety",
+    "url": "https://medlineplus.gov/sportssafety.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sports-safety.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Stroke",
+    "url": "https://medlineplus.gov/stroke.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\stroke.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Urinary Incontinence",
+    "url": "https://medlineplus.gov/urinaryincontinence.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\urinary-incontinence.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vaginitis",
+    "url": "https://medlineplus.gov/vaginitis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vaginitis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Varicose Veins",
+    "url": "https://medlineplus.gov/varicoseveins.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\varicose-veins.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Assisted Reproductive Technology",
+    "url": "https://medlineplus.gov/assistedreproductivetechnology.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\assisted-reproductive-technology.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hemochromatosis",
+    "url": "https://medlineplus.gov/hemochromatosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hemochromatosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Lewy Body Dementia",
+    "url": "https://medlineplus.gov/lewybodydementia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\lewy-body-dementia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sexual Problems in Women",
+    "url": "https://medlineplus.gov/sexualproblemsinwomen.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sexual-problems-in-women.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ovarian Cysts",
+    "url": "https://medlineplus.gov/ovariancysts.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ovarian-cysts.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Female Infertility",
+    "url": "https://medlineplus.gov/femaleinfertility.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\female-infertility.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hysterectomy",
+    "url": "https://medlineplus.gov/hysterectomy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hysterectomy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Menopause",
+    "url": "https://medlineplus.gov/menopause.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\menopause.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cervix Disorders",
+    "url": "https://medlineplus.gov/cervixdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cervix-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HIV and Pregnancy",
+    "url": "https://medlineplus.gov/hivandpregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiv-and-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hormone Replacement Therapy",
+    "url": "https://medlineplus.gov/hormonereplacementtherapy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hormone-replacement-therapy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tubal Ligation",
+    "url": "https://medlineplus.gov/tuballigation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tubal-ligation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Reproductive Hazards",
+    "url": "https://medlineplus.gov/reproductivehazards.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\reproductive-hazards.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Abortion",
+    "url": "https://medlineplus.gov/abortion.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\abortion.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Breast Diseases",
+    "url": "https://medlineplus.gov/breastdiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\breast-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Breast Reconstruction",
+    "url": "https://medlineplus.gov/breastreconstruction.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\breast-reconstruction.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Breastfeeding",
+    "url": "https://medlineplus.gov/breastfeeding.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\breastfeeding.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ectopic Pregnancy",
+    "url": "https://medlineplus.gov/ectopicpregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ectopic-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Gonorrhea",
+    "url": "https://medlineplus.gov/gonorrhea.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\gonorrhea.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Health Problems in Pregnancy",
+    "url": "https://medlineplus.gov/healthproblemsinpregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\health-problems-in-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Herpes Simplex",
+    "url": "https://medlineplus.gov/herpessimplex.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\herpes-simplex.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Infections and Pregnancy",
+    "url": "https://medlineplus.gov/infectionsandpregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\infections-and-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Infertility",
+    "url": "https://medlineplus.gov/infertility.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\infertility.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mammography",
+    "url": "https://medlineplus.gov/mammography.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mammography.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mastectomy",
+    "url": "https://medlineplus.gov/mastectomy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mastectomy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Miscarriage",
+    "url": "https://medlineplus.gov/miscarriage.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\miscarriage.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pelvic Floor Disorders",
+    "url": "https://medlineplus.gov/pelvicfloordisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pelvic-floor-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pelvic Inflammatory Disease",
+    "url": "https://medlineplus.gov/pelvicinflammatorydisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pelvic-inflammatory-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pelvic Pain",
+    "url": "https://medlineplus.gov/pelvicpain.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pelvic-pain.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Period Pain",
+    "url": "https://medlineplus.gov/periodpain.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\period-pain.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pregnancy and Opioids",
+    "url": "https://medlineplus.gov/pregnancyandopioids.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pregnancy-and-opioids.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pregnancy and Substance Use",
+    "url": "https://medlineplus.gov/pregnancyandsubstanceuse.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pregnancy-and-substance-use.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Premenstrual Syndrome",
+    "url": "https://medlineplus.gov/premenstrualsyndrome.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\premenstrual-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Prenatal Care",
+    "url": "https://medlineplus.gov/prenatalcare.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\prenatal-care.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Prenatal Testing",
+    "url": "https://medlineplus.gov/prenataltesting.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\prenatal-testing.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Preterm Labor",
+    "url": "https://medlineplus.gov/pretermlabor.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\preterm-labor.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sexually Transmitted Infections",
+    "url": "https://medlineplus.gov/sexuallytransmittedinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sexually-transmitted-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Stillbirth",
+    "url": "https://medlineplus.gov/stillbirth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\stillbirth.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Syphilis",
+    "url": "https://medlineplus.gov/syphilis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\syphilis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teenage Pregnancy",
+    "url": "https://medlineplus.gov/teenagepregnancy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teenage-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Trichomoniasis",
+    "url": "https://medlineplus.gov/trichomoniasis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\trichomoniasis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Uterine Fibroids",
+    "url": "https://medlineplus.gov/uterinefibroids.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\uterine-fibroids.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vaginal Diseases",
+    "url": "https://medlineplus.gov/vaginaldiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vaginal-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vulvar Disorders",
+    "url": "https://medlineplus.gov/vulvardisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vulvar-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Men's Health",
+    "url": "https://medlineplus.gov/menshealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mens-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Celiac Disease",
+    "url": "https://medlineplus.gov/celiacdisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\celiac-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Male Infertility",
+    "url": "https://medlineplus.gov/maleinfertility.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\male-infertility.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sexual Problems in Men",
+    "url": "https://medlineplus.gov/sexualproblemsinmen.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sexual-problems-in-men.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Testicular Cancer",
+    "url": "https://medlineplus.gov/testicularcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\testicular-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Prostate Cancer",
+    "url": "https://medlineplus.gov/prostatecancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\prostate-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Enlarged Prostate (BPH)",
+    "url": "https://medlineplus.gov/enlargedprostatebph.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\enlarged-prostate-bph.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Prostate Cancer Screening",
+    "url": "https://medlineplus.gov/prostatecancerscreening.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\prostate-cancer-screening.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Prostate Diseases",
+    "url": "https://medlineplus.gov/prostatediseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\prostate-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Testicular Disorders",
+    "url": "https://medlineplus.gov/testiculardisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\testicular-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Circumcision",
+    "url": "https://medlineplus.gov/circumcision.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\circumcision.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Penis Disorders",
+    "url": "https://medlineplus.gov/penisdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\penis-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Erectile Dysfunction",
+    "url": "https://medlineplus.gov/erectiledysfunction.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\erectile-dysfunction.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vasectomy",
+    "url": "https://medlineplus.gov/vasectomy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vasectomy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Water Pollution",
+    "url": "https://medlineplus.gov/waterpollution.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\water-pollution.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "MRSA",
+    "url": "https://medlineplus.gov/mrsa.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mrsa.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hepatitis A",
+    "url": "https://medlineplus.gov/hepatitisa.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hepatitis-a.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mpox",
+    "url": "https://medlineplus.gov/mpox.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mpox.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teen Mental Health",
+    "url": "https://medlineplus.gov/teenmentalhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teen-mental-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "CT Scans",
+    "url": "https://medlineplus.gov/ctscans.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ct-scans.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "MRI Scans",
+    "url": "https://medlineplus.gov/mriscans.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mri-scans.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diagnostic Imaging",
+    "url": "https://medlineplus.gov/diagnosticimaging.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diagnostic-imaging.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "X-Rays",
+    "url": "https://medlineplus.gov/xrays.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\x-rays.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Nuclear Scans",
+    "url": "https://medlineplus.gov/nuclearscans.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\nuclear-scans.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Non-Drug Pain Management",
+    "url": "https://medlineplus.gov/nondrugpainmanagement.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\non-drug-pain-management.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cancer--Living with Cancer",
+    "url": "https://medlineplus.gov/cancerlivingwithcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cancer-living-with-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Colonoscopy",
+    "url": "https://medlineplus.gov/colonoscopy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\colonoscopy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Skin Conditions",
+    "url": "https://medlineplus.gov/skinconditions.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\skin-conditions.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Gout",
+    "url": "https://medlineplus.gov/gout.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\gout.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Obsessive-Compulsive Disorder",
+    "url": "https://medlineplus.gov/obsessivecompulsivedisorder.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\obsessive-compulsive-disorder.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Guide to Good Posture",
+    "url": "https://medlineplus.gov/guidetogoodposture.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\guide-to-good-posture.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Skin Infections",
+    "url": "https://medlineplus.gov/skininfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\skin-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Brain Diseases",
+    "url": "https://medlineplus.gov/braindiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\brain-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Raynaud Phenomenon",
+    "url": "https://medlineplus.gov/raynaudphenomenon.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\raynaud-phenomenon.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diabetic Foot",
+    "url": "https://medlineplus.gov/diabeticfoot.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diabetic-foot.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Liver Transplantation",
+    "url": "https://medlineplus.gov/livertransplantation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\liver-transplantation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Methamphetamine",
+    "url": "https://medlineplus.gov/methamphetamine.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\methamphetamine.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Shingles",
+    "url": "https://medlineplus.gov/shingles.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\shingles.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Skin Pigmentation Disorders",
+    "url": "https://medlineplus.gov/skinpigmentationdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\skin-pigmentation-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Staphylococcal Infections",
+    "url": "https://medlineplus.gov/staphylococcalinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\staphylococcal-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Thyroid Cancer",
+    "url": "https://medlineplus.gov/thyroidcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\thyroid-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tinea Infections",
+    "url": "https://medlineplus.gov/tineainfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tinea-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bone Marrow Transplantation",
+    "url": "https://medlineplus.gov/bonemarrowtransplantation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bone-marrow-transplantation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Chickenpox",
+    "url": "https://medlineplus.gov/chickenpox.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\chickenpox.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cocaine",
+    "url": "https://medlineplus.gov/cocaine.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cocaine.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Coronary Artery Bypass Surgery",
+    "url": "https://medlineplus.gov/coronaryarterybypasssurgery.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\coronary-artery-bypass-surgery.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Deep Vein Thrombosis",
+    "url": "https://medlineplus.gov/deepveinthrombosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\deep-vein-thrombosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diabetes Complications",
+    "url": "https://medlineplus.gov/diabetescomplications.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diabetes-complications.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Endoscopy",
+    "url": "https://medlineplus.gov/endoscopy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\endoscopy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heroin",
+    "url": "https://medlineplus.gov/heroin.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heroin.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ischemic Stroke",
+    "url": "https://medlineplus.gov/ischemicstroke.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ischemic-stroke.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Kidney Transplantation",
+    "url": "https://medlineplus.gov/kidneytransplantation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\kidney-transplantation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Melanoma",
+    "url": "https://medlineplus.gov/melanoma.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\melanoma.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ostomy",
+    "url": "https://medlineplus.gov/ostomy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ostomy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Surgery",
+    "url": "https://medlineplus.gov/surgery.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\surgery.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bed Bugs",
+    "url": "https://medlineplus.gov/bedbugs.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bed-bugs.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Brain Aneurysm",
+    "url": "https://medlineplus.gov/brainaneurysm.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\brain-aneurysm.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Brain Tumors",
+    "url": "https://medlineplus.gov/braintumors.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\brain-tumors.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cellulitis",
+    "url": "https://medlineplus.gov/cellulitis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cellulitis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Corneal Disorders",
+    "url": "https://medlineplus.gov/cornealdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\corneal-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Drug Reactions",
+    "url": "https://medlineplus.gov/drugreactions.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\drug-reactions.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Eye Injuries",
+    "url": "https://medlineplus.gov/eyeinjuries.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\eye-injuries.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Eyelid Disorders",
+    "url": "https://medlineplus.gov/eyeliddisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\eyelid-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hair Problems",
+    "url": "https://medlineplus.gov/hairproblems.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hair-problems.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hives",
+    "url": "https://medlineplus.gov/hives.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hives.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Marijuana",
+    "url": "https://medlineplus.gov/marijuana.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\marijuana.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Measles",
+    "url": "https://medlineplus.gov/measles.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\measles.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Moles",
+    "url": "https://medlineplus.gov/moles.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\moles.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mouth Disorders",
+    "url": "https://medlineplus.gov/mouthdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mouth-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Psoriasis",
+    "url": "https://medlineplus.gov/psoriasis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\psoriasis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Scars",
+    "url": "https://medlineplus.gov/scars.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\scars.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vascular Diseases",
+    "url": "https://medlineplus.gov/vasculardiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vascular-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Choking",
+    "url": "https://medlineplus.gov/choking.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\choking.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "First Aid",
+    "url": "https://medlineplus.gov/firstaid.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\first-aid.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Foreign Bodies",
+    "url": "https://medlineplus.gov/foreignbodies.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\foreign-bodies.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sweat",
+    "url": "https://medlineplus.gov/sweat.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sweat.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ankle Injuries and Disorders",
+    "url": "https://medlineplus.gov/ankleinjuriesanddisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ankle-injuries-and-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Arrhythmia",
+    "url": "https://medlineplus.gov/arrhythmia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\arrhythmia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cardiac Rehabilitation",
+    "url": "https://medlineplus.gov/cardiacrehabilitation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cardiac-rehabilitation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cardiomyopathy",
+    "url": "https://medlineplus.gov/cardiomyopathy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cardiomyopathy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cataract",
+    "url": "https://medlineplus.gov/cataract.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cataract.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Critical Care",
+    "url": "https://medlineplus.gov/criticalcare.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\critical-care.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ear Infections",
+    "url": "https://medlineplus.gov/earinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ear-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Eye Movement Disorders",
+    "url": "https://medlineplus.gov/eyemovementdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\eye-movement-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Failure",
+    "url": "https://medlineplus.gov/heartfailure.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-failure.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Health Tests",
+    "url": "https://medlineplus.gov/hearthealthtests.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-health-tests.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Heart Transplantation",
+    "url": "https://medlineplus.gov/hearttransplantation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\heart-transplantation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Herniated Disk",
+    "url": "https://medlineplus.gov/herniateddisk.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\herniated-disk.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hiatal Hernia",
+    "url": "https://medlineplus.gov/hiatalhernia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiatal-hernia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hip Replacement",
+    "url": "https://medlineplus.gov/hipreplacement.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hip-replacement.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pancreas Transplantation",
+    "url": "https://medlineplus.gov/pancreastransplantation.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pancreas-transplantation.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Peripheral Arterial Disease",
+    "url": "https://medlineplus.gov/peripheralarterialdisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\peripheral-arterial-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Spinal Cord Diseases",
+    "url": "https://medlineplus.gov/spinalcorddiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\spinal-cord-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Spinal Stenosis",
+    "url": "https://medlineplus.gov/spinalstenosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\spinal-stenosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Spleen Diseases",
+    "url": "https://medlineplus.gov/spleendiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\spleen-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Toe Injuries and Disorders",
+    "url": "https://medlineplus.gov/toeinjuriesanddisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\toe-injuries-and-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tooth Disorders",
+    "url": "https://medlineplus.gov/toothdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tooth-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tracheal Disorders",
+    "url": "https://medlineplus.gov/trachealdisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tracheal-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Drugs and Young People",
+    "url": "https://medlineplus.gov/drugsandyoungpeople.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\drugs-and-young-people.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Child Nutrition",
+    "url": "https://medlineplus.gov/childnutrition.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\child-nutrition.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Underage Drinking",
+    "url": "https://medlineplus.gov/underagedrinking.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\underage-drinking.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "College Health",
+    "url": "https://medlineplus.gov/collegehealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\college-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Child Behavior Disorders",
+    "url": "https://medlineplus.gov/childbehaviordisorders.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\child-behavior-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Developmental Disabilities",
+    "url": "https://medlineplus.gov/developmentaldisabilities.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\developmental-disabilities.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Health Disparities",
+    "url": "https://medlineplus.gov/healthdisparities.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\health-disparities.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sexual Assault",
+    "url": "https://medlineplus.gov/sexualassault.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sexual-assault.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Toddler Development",
+    "url": "https://medlineplus.gov/toddlerdevelopment.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\toddler-development.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HIV and Infections",
+    "url": "https://medlineplus.gov/hivandinfections.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiv-and-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "High Blood Pressure",
+    "url": "https://medlineplus.gov/highbloodpressure.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\high-blood-pressure.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Health Statistics",
+    "url": "https://medlineplus.gov/healthstatistics.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\health-statistics.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cryptosporidiosis",
+    "url": "https://medlineplus.gov/cryptosporidiosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cryptosporidiosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Dietary Proteins",
+    "url": "https://medlineplus.gov/dietaryproteins.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\dietary-proteins.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Alcohol",
+    "url": "https://medlineplus.gov/alcohol.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\alcohol.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Understanding Medical Research",
+    "url": "https://medlineplus.gov/understandingmedicalresearch.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\understanding-medical-research.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Intimate Partner Violence",
+    "url": "https://medlineplus.gov/intimatepartnerviolence.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\intimate-partner-violence.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Antidepressants",
+    "url": "https://medlineplus.gov/antidepressants.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\antidepressants.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Parenting",
+    "url": "https://medlineplus.gov/parenting.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\parenting.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Carbohydrates",
+    "url": "https://medlineplus.gov/carbohydrates.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\carbohydrates.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Traveler's Health",
+    "url": "https://medlineplus.gov/travelershealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\travelers-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Benefits of Exercise",
+    "url": "https://medlineplus.gov/benefitsofexercise.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\benefits-of-exercise.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Child Sexual Abuse",
+    "url": "https://medlineplus.gov/childsexualabuse.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\child-sexual-abuse.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Chronic Kidney Disease",
+    "url": "https://medlineplus.gov/chronickidneydisease.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\chronic-kidney-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pacemakers and Implantable Defibrillators",
+    "url": "https://medlineplus.gov/pacemakersandimplantabledefibrillators.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pacemakers-and-implantable-defibrillators.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Veterans and Military Health",
+    "url": "https://medlineplus.gov/veteransandmilitaryhealth.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\veterans-and-military-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Weight Control",
+    "url": "https://medlineplus.gov/weightcontrol.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\weight-control.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Health Fraud",
+    "url": "https://medlineplus.gov/healthfraud.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\health-fraud.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HIV: PrEP and PEP",
+    "url": "https://medlineplus.gov/hivprepandpep.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hiv-prep-and-pep.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teen Violence",
+    "url": "https://medlineplus.gov/teenviolence.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teen-violence.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Suicide",
+    "url": "https://medlineplus.gov/suicide.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\suicide.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cancer Chemotherapy",
+    "url": "https://medlineplus.gov/cancerchemotherapy.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cancer-chemotherapy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Scabies",
+    "url": "https://medlineplus.gov/scabies.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\scabies.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Infectious Diseases",
+    "url": "https://medlineplus.gov/infectiousdiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\infectious-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Inhalants",
+    "url": "https://medlineplus.gov/inhalants.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\inhalants.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diabetic Nerve Problems",
+    "url": "https://medlineplus.gov/diabeticnerveproblems.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diabetic-nerve-problems.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Anal Cancer",
+    "url": "https://medlineplus.gov/analcancer.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\anal-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ataxia Telangiectasia",
+    "url": "https://medlineplus.gov/ataxiatelangiectasia.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ataxia-telangiectasia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Child Abuse",
+    "url": "https://medlineplus.gov/childabuse.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\child-abuse.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Elder Abuse",
+    "url": "https://medlineplus.gov/elderabuse.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\elder-abuse.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Infectious Mononucleosis",
+    "url": "https://medlineplus.gov/infectiousmononucleosis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\infectious-mononucleosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Interstitial Cystitis",
+    "url": "https://medlineplus.gov/interstitialcystitis.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\interstitial-cystitis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Parasitic Diseases",
+    "url": "https://medlineplus.gov/parasiticdiseases.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\parasitic-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Zika Virus",
+    "url": "https://medlineplus.gov/zikavirus.html",
+    "target_agent": [
+      "GeneralHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\zika-virus.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Global Health",
+    "url": "https://medlineplus.gov/globalhealth.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\global-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Bone Density",
+    "url": "https://medlineplus.gov/bonedensity.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\bone-density.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "COVID-19 (Coronavirus Disease 2019)",
+    "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\covid-19-coronavirus-disease-2019.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hepatitis B",
+    "url": "https://medlineplus.gov/hepatitisb.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hepatitis-b.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hepatitis C",
+    "url": "https://medlineplus.gov/hepatitisc.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hepatitis-c.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pneumocystis Infections",
+    "url": "https://medlineplus.gov/pneumocystisinfections.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pneumocystis-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Warts",
+    "url": "https://medlineplus.gov/warts.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\warts.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Liver Cancer",
+    "url": "https://medlineplus.gov/livercancer.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\liver-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Liver Diseases",
+    "url": "https://medlineplus.gov/liverdiseases.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\liver-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Steatotic Liver Disease",
+    "url": "https://medlineplus.gov/steatoticliverdisease.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\steatotic-liver-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Health Screening",
+    "url": "https://medlineplus.gov/healthscreening.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\health-screening.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pneumonia",
+    "url": "https://medlineplus.gov/pneumonia.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pneumonia.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cold Sores",
+    "url": "https://medlineplus.gov/coldsores.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cold-sores.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Itching",
+    "url": "https://medlineplus.gov/itching.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\itching.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Healthy Living",
+    "url": "https://medlineplus.gov/healthyliving.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\healthy-living.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Women's Health Checkup",
+    "url": "https://medlineplus.gov/womenshealthcheckup.html",
+    "target_agent": [
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\womens-health-checkup.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Ankylosing Spondylitis",
+    "url": "https://medlineplus.gov/ankylosingspondylitis.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ankylosing-spondylitis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hip Injuries and Disorders",
+    "url": "https://medlineplus.gov/hipinjuriesanddisorders.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hip-injuries-and-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Atherosclerosis",
+    "url": "https://medlineplus.gov/atherosclerosis.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\atherosclerosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Diverticulosis and Diverticulitis",
+    "url": "https://medlineplus.gov/diverticulosisanddiverticulitis.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\diverticulosis-and-diverticulitis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Adhesions",
+    "url": "https://medlineplus.gov/adhesions.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\adhesions.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Intestinal Cancer",
+    "url": "https://medlineplus.gov/intestinalcancer.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\intestinal-cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tumors and Pregnancy",
+    "url": "https://medlineplus.gov/tumorsandpregnancy.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tumors-and-pregnancy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Neck Injuries and Disorders",
+    "url": "https://medlineplus.gov/neckinjuriesanddisorders.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\neck-injuries-and-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Genetic Counseling",
+    "url": "https://medlineplus.gov/geneticcounseling.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\genetic-counseling.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Prediabetes",
+    "url": "https://medlineplus.gov/prediabetes.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\prediabetes.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Metabolic Syndrome",
+    "url": "https://medlineplus.gov/metabolicsyndrome.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\metabolic-syndrome.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "How to Prevent Diabetes",
+    "url": "https://medlineplus.gov/howtopreventdiabetes.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\how-to-prevent-diabetes.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sepsis",
+    "url": "https://medlineplus.gov/sepsis.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sepsis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Streptococcal Infections",
+    "url": "https://medlineplus.gov/streptococcalinfections.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\streptococcal-infections.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Shock",
+    "url": "https://medlineplus.gov/shock.html",
+    "target_agent": [
+      "ReproductiveHealthAgent",
+      "STIAgent"
+    ],
+    "file": "y_khoa_lam_sang\\shock.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Sports Injuries",
+    "url": "https://medlineplus.gov/sportsinjuries.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\sports-injuries.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Antioxidants",
+    "url": "https://medlineplus.gov/antioxidants.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\antioxidants.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Urine and Urination",
+    "url": "https://medlineplus.gov/urineandurination.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\urine-and-urination.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Autonomic Nervous System Disorders",
+    "url": "https://medlineplus.gov/autonomicnervoussystemdisorders.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\autonomic-nervous-system-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Hearing Disorders and Deafness",
+    "url": "https://medlineplus.gov/hearingdisordersanddeafness.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hearing-disorders-and-deafness.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Biopsy",
+    "url": "https://medlineplus.gov/biopsy.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\biopsy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pulmonary Embolism",
+    "url": "https://medlineplus.gov/pulmonaryembolism.html",
+    "target_agent": [
+      "ContraceptionAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pulmonary-embolism.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "HDL: The \"Good\" Cholesterol",
+    "url": "https://medlineplus.gov/hdlthegoodcholesterol.html",
+    "target_agent": [
+      "ContraceptionAgent"
+    ],
+    "file": "y_khoa_lam_sang\\hdl-the-good-cholesterol.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "How to Prevent High Blood Pressure",
+    "url": "https://medlineplus.gov/howtopreventhighbloodpressure.html",
+    "target_agent": [
+      "ContraceptionAgent"
+    ],
+    "file": "y_khoa_lam_sang\\how-to-prevent-high-blood-pressure.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Latex Allergy",
+    "url": "https://medlineplus.gov/latexallergy.html",
+    "target_agent": [
+      "ContraceptionAgent"
+    ],
+    "file": "y_khoa_lam_sang\\latex-allergy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Preconception Care",
+    "url": "https://medlineplus.gov/preconceptioncare.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\preconception-care.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Twins, Triplets, Multiple Births",
+    "url": "https://medlineplus.gov/twinstripletsmultiplebirths.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\twins-triplets-multiple-births.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cancer in Children",
+    "url": "https://medlineplus.gov/cancerinchildren.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cancer-in-children.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "COVID-19 Vaccines",
+    "url": "https://medlineplus.gov/covid19vaccines.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\covid-19-vaccines.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Multiple Sclerosis",
+    "url": "https://medlineplus.gov/multiplesclerosis.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\multiple-sclerosis.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pregnancy and Medicines",
+    "url": "https://medlineplus.gov/pregnancyandmedicines.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pregnancy-and-medicines.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Rh Incompatibility",
+    "url": "https://medlineplus.gov/rhincompatibility.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\rh-incompatibility.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cerebral Palsy",
+    "url": "https://medlineplus.gov/cerebralpalsy.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cerebral-palsy.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Fetal Health and Development",
+    "url": "https://medlineplus.gov/fetalhealthanddevelopment.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\fetal-health-and-development.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Medical Ethics",
+    "url": "https://medlineplus.gov/medicalethics.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\medical-ethics.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Tay-Sachs Disease",
+    "url": "https://medlineplus.gov/taysachsdisease.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\tay-sachs-disease.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Vitamins",
+    "url": "https://medlineplus.gov/vitamins.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\vitamins.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Rubella",
+    "url": "https://medlineplus.gov/rubella.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\rubella.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Kidney Diseases",
+    "url": "https://medlineplus.gov/kidneydiseases.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\kidney-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Postpartum Depression",
+    "url": "https://medlineplus.gov/postpartumdepression.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\postpartum-depression.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Depression",
+    "url": "https://medlineplus.gov/depression.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\depression.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Psychotic Disorders",
+    "url": "https://medlineplus.gov/psychoticdisorders.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\psychotic-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Anxiety",
+    "url": "https://medlineplus.gov/anxiety.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\anxiety.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cholesterol Levels: What You Need to Know",
+    "url": "https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cholesterol-levels-what-you-need-to-know.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "LDL: The \"Bad\" Cholesterol",
+    "url": "https://medlineplus.gov/ldlthebadcholesterol.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\ldl-the-bad-cholesterol.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Cancer",
+    "url": "https://medlineplus.gov/cancer.html",
+    "target_agent": [
+      "ReproductiveHealthAgent"
+    ],
+    "file": "y_khoa_lam_sang\\cancer.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Learning Disabilities",
+    "url": "https://medlineplus.gov/learningdisabilities.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\learning-disabilities.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mental Health",
+    "url": "https://medlineplus.gov/mentalhealth.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mental-health.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Digestive Diseases",
+    "url": "https://medlineplus.gov/digestivediseases.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\digestive-diseases.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Caregivers",
+    "url": "https://medlineplus.gov/caregivers.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\caregivers.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Disabilities",
+    "url": "https://medlineplus.gov/disabilities.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\disabilities.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Attention Deficit Hyperactivity Disorder",
+    "url": "https://medlineplus.gov/attentiondeficithyperactivitydisorder.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\attention-deficit-hyperactivity-disorder.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Chronic Pain",
+    "url": "https://medlineplus.gov/chronicpain.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\chronic-pain.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Opioid Use Disorder (OUD) Treatment",
+    "url": "https://medlineplus.gov/opioidusedisorderoudtreatment.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\opioid-use-disorder-oud-treatment.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Pain",
+    "url": "https://medlineplus.gov/pain.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\pain.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Patient Rights",
+    "url": "https://medlineplus.gov/patientrights.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\patient-rights.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Traumatic Brain Injury",
+    "url": "https://medlineplus.gov/traumaticbraininjury.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\traumatic-brain-injury.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Smoking and Youth",
+    "url": "https://medlineplus.gov/smokingandyouth.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\smoking-and-youth.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Fetal Alcohol Spectrum Disorders",
+    "url": "https://medlineplus.gov/fetalalcoholspectrumdisorders.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\fetal-alcohol-spectrum-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Alcohol Use Disorder (AUD)",
+    "url": "https://medlineplus.gov/alcoholusedisorderaud.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\alcohol-use-disorder-aud.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Mental Disorders",
+    "url": "https://medlineplus.gov/mentaldisorders.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\mental-disorders.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Safe Opioid Use",
+    "url": "https://medlineplus.gov/safeopioiduse.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\safe-opioid-use.json"
+  },
+  {
+    "source": "MedlinePlus",
+    "category": "y_khoa_lam_sang",
+    "title": "Teen Depression",
+    "url": "https://medlineplus.gov/teendepression.html",
+    "target_agent": [
+      "SafetyConsentAgent"
+    ],
+    "file": "y_khoa_lam_sang\\teen-depression.json"
+  }
+]

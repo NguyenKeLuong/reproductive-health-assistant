@@ -33,6 +33,15 @@ export function MessageBubble({ message, isStreaming }: MessageBubbleProps) {
             : "bg-assistant-bubble text-assistant-bubble-foreground rounded-tl-sm border border-border/50"
         )}
       >
+        {message.image && (
+          <div className="mb-2">
+            <img 
+              src={message.image} 
+              alt="Uploaded symptom" 
+              className="max-w-[240px] max-h-[180px] object-cover rounded-xl border border-white/20 shadow-soft"
+            />
+          </div>
+        )}
         {message.content ? (
           <ReactMarkdown remarkPlugins={[remarkGfm]}>{message.content}</ReactMarkdown>
         ) : isStreaming ? (

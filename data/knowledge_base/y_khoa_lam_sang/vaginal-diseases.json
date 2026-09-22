@@ -1,0 +1,20 @@
+{
+  "url": "https://medlineplus.gov/vaginaldiseases.html",
+  "title": "Vaginal Diseases",
+  "full_summary": "Vaginal problems are some of the most common reasons women go to the doctor. They may have symptoms such as: Itching Burning Pain Abnormal bleeding Discharge One common problem is vaginitis, an inflammation of the vagina. Other problems that affect the vagina include sexually transmitted infections (STIs), vaginal cancer, and vulvar cancer. Treatment of vaginal problems depends on the cause.",
+  "also_called": [
+    "Vaginal Infections"
+  ],
+  "mesh_headings": [
+    "Vaginal Diseases"
+  ],
+  "groups": [
+    "Women",
+    "Female Reproductive System"
+  ],
+  "organization": "National Library of Medicine",
+  "source": "MedlinePlus",
+  "target_agent": [
+    "GeneralHealthAgent"
+  ]
+}

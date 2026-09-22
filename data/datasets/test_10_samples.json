@@ -1,0 +1,363 @@
+[
+  {
+    "id": "covid-19-vaccines_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "covid-19-vaccines.json",
+      "golden_chunk": "This virus is a coronavirus called SARS-CoV-2."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ cho tôi hỏi bệnh COVID-19 là do loại virus nào gây ra vậy?",
+      "expected_answer": "Bệnh COVID-19 gây ra bởi một loại virus corona có tên là SARS-CoV-2.",
+      "evaluation_criteria": [
+        "Xác định chính xác tên virus là SARS-CoV-2",
+        "Câu trả lời ngắn gọn và đúng trọng tâm"
+      ]
+    }
+  },
+  {
+    "id": "covid-19-vaccines_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "covid-19-vaccines.json",
+      "golden_chunk": "if you do get sick, the vaccines can reduce your risk for: Needing to go to urgent care or the emergency room Getting severe illness Being hospitalized Dying Getting long COVID"
+    },
+    "generation_ground_truth": {
+      "user_query": "Nếu tôi đã tiêm vaccine rồi mà vẫn bị nhiễm COVID-19 thì vaccine có giúp ích gì không bác sĩ?",
+      "expected_answer": "Có, nếu bạn vẫn bị bệnh sau khi tiêm, vaccine sẽ giúp giảm nguy cơ: phải đi cấp cứu hoặc đến phòng cấp cứu, mắc bệnh nặng, nhập viện, tử vong và mắc COVID kéo dài.",
+      "evaluation_criteria": [
+        "Liệt kê đầy đủ các rủi ro được giảm thiểu khi tiêm vaccine",
+        "Thông tin phải khớp hoàn toàn với văn bản cung cấp"
+      ]
+    }
+  },
+  {
+    "id": "child-development_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "child-development.json",
+      "golden_chunk": "Child development includes physical, intellectual, social, and emotional changes."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ cho tôi hỏi sự phát triển của trẻ em bao gồm những thay đổi về mặt nào ạ?",
+      "expected_answer": "Sự phát triển của trẻ em bao gồm các thay đổi về thể chất, trí tuệ, xã hội và cảm xúc.",
+      "evaluation_criteria": [
+        "Phải liệt kê đủ 4 khía cạnh: thể chất, trí tuệ, xã hội và cảm xúc",
+        "Câu trả lời chính xác theo văn bản cung cấp"
+      ]
+    }
+  },
+  {
+    "id": "child-development_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "child-development.json",
+      "golden_chunk": "This can also be the time that parents or teachers recognize learning disabilities or behavioral problems in children. These problems can get worse as time goes on, so it is important to get help early."
+    },
+    "generation_ground_truth": {
+      "user_query": "Nếu tôi nhận thấy con mình có vấn đề về hành vi hoặc khó khăn trong học tập thì có nên can thiệp ngay không hay cứ để trẻ tự lớn?",
+      "expected_answer": "Bạn nên tìm kiếm sự giúp đỡ sớm vì những vấn đề về hành vi hoặc khuyết tật học tập ở trẻ em có thể trở nên tồi tệ hơn theo thời gian.",
+      "evaluation_criteria": [
+        "Phải nhấn mạnh tầm quan trọng của việc can thiệp/giúp đỡ sớm",
+        "Giải thích được lý do là vì các vấn đề này có thể nặng hơn theo thời gian"
+      ]
+    }
+  },
+  {
+    "id": "ostomy_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "ostomy.json",
+      "golden_chunk": "It can be permanent, when an organ must be removed. It can be temporary, when the organ needs time to heal."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ cho tôi hỏi phẫu thuật mở thông (ostomy) là vĩnh viễn hay chỉ tạm thời thôi ạ?",
+      "expected_answer": "Phẫu thuật mở thông có thể là vĩnh viễn trong trường hợp một cơ quan phải bị cắt bỏ, hoặc có thể là tạm thời khi cơ quan đó cần thời gian để hồi phục.",
+      "evaluation_criteria": [
+        "Phải nêu rõ hai trường hợp: vĩnh viễn và tạm thời",
+        "Giải thích đúng lý do cho mỗi trường hợp (cắt bỏ cơ quan vs cần thời gian hồi phục)"
+      ]
+    }
+  },
+  {
+    "id": "ostomy_2",
+    "metadata": {
+      "question_type": "Comparison"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "ostomy.json",
+      "golden_chunk": "Ileostomy - the bottom of the small intestine (ileum) is attached to the stoma. This bypasses the colon, rectum and anus. Colostomy - the colon is attached to the stoma. This bypasses the rectum and the anus."
+    },
+    "generation_ground_truth": {
+      "user_query": "Sự khác nhau giữa mở thông hồi tràng (ileostomy) và mở thông đại tràng (colostomy) là gì vậy bác sĩ?",
+      "expected_answer": "Điểm khác biệt chính là vị trí kết nối với lỗ mở thông (stoma): mở thông hồi tràng là kết nối phần cuối của ruột non (hồi tràng) và bỏ qua đại tràng, trực tràng và hậu môn; trong khi mở thông đại tràng là kết nối đại tràng với lỗ mở thông và bỏ qua trực tràng và hậu môn.",
+      "evaluation_criteria": [
+        "Phân biệt đúng vị trí kết nối của ileostomy (ruột non/hồi tràng) và colostomy (đại tràng)",
+        "Nêu rõ các bộ phận bị bỏ qua trong mỗi loại phẫu thuật"
+      ]
+    }
+  },
+  {
+    "id": "neurologic-diseases_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "neurologic-diseases.json",
+      "golden_chunk": "When something goes wrong with a part of your nervous system, you can have trouble moving, speaking, swallowing, breathing, or learning. You can also have problems with your memory, senses, or mood."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ ơi, nếu hệ thần kinh của tôi gặp vấn đề thì cơ thể sẽ có những biểu hiện gì ạ?",
+      "expected_answer": "Khi một phần của hệ thần kinh gặp vấn đề, bạn có thể gặp khó khăn trong việc vận động, nói, nuốt, thở hoặc học tập. Ngoài ra, bạn cũng có thể gặp các vấn đề về trí nhớ, giác quan hoặc tâm trạng.",
+      "evaluation_criteria": [
+        "Phải liệt kê đủ các khó khăn về vận động, nói, nuốt, thở, học tập",
+        "Phải đề cập đến các vấn đề về trí nhớ, giác quan và tâm trạng"
+      ]
+    }
+  },
+  {
+    "id": "neurologic-diseases_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "neurologic-diseases.json",
+      "golden_chunk": "Degenerative diseases, where nerve cells are damaged or die, such as Parkinson's disease and Alzheimer's disease"
+    },
+    "generation_ground_truth": {
+      "user_query": "Tôi nghe nói bệnh Parkinson và Alzheimer là bệnh thoái hóa thần kinh, vậy bệnh thoái hóa thần kinh là gì vậy bác sĩ?",
+      "expected_answer": "Bệnh thoái hóa thần kinh là những căn bệnh mà trong đó các tế bào thần kinh bị tổn thương hoặc bị chết, ví dụ điển hình là bệnh Parkinson và bệnh Alzheimer.",
+      "evaluation_criteria": [
+        "Định nghĩa chính xác là tế bào thần kinh bị tổn thương hoặc bị chết",
+        "Nhắc đến ví dụ là Parkinson và Alzheimer"
+      ]
+    }
+  },
+  {
+    "id": "vulvar-cancer_1",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "vulvar-cancer.json",
+      "golden_chunk": "see your doctor for testing if you notice: A lump in the vulva Vulvar itching or tenderness Bleeding that is not your period Changes in the vulvar skin, such as color changes or growths that look like a wart or ulcer"
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ ơi, tôi thấy vùng kín bị ngứa, thỉnh thoảng có vết loét và ra máu bất thường không phải kỳ kinh, liệu tôi có cần đi khám không?",
+      "expected_answer": "Bạn nên đi khám bác sĩ để kiểm tra nếu nhận thấy các dấu hiệu như: có khối u ở âm hộ, ngứa hoặc đau nhạy cảm vùng âm hộ, chảy máu không phải do kỳ kinh nguyệt, hoặc có những thay đổi ở da âm hộ như thay đổi màu sắc hoặc xuất hiện các nốt phát triển trông giống như mụn cóc hoặc vết loét.",
+      "evaluation_criteria": [
+        "Phải liệt kê đầy đủ các triệu chứng cảnh báo từ văn bản",
+        "Khuyên người dùng đi khám bác sĩ"
+      ]
+    }
+  },
+  {
+    "id": "vulvar-cancer_2",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "vulvar-cancer.json",
+      "golden_chunk": "You are at greater risk if you've had a human papillomavirus (HPV) infection or have a history of genital warts."
+    },
+    "generation_ground_truth": {
+      "user_query": "Những ai là người có nguy cơ cao mắc ung thư âm hộ vậy bác sĩ?",
+      "expected_answer": "Những người từng bị nhiễm virus HPV (human papillomavirus) hoặc có tiền sử bị mụn cóc sinh dục sẽ có nguy cơ mắc ung thư âm hộ cao hơn.",
+      "evaluation_criteria": [
+        "Nhắc đến nhiễm virus HPV",
+        "Nhắc đến tiền sử mụn cóc sinh dục"
+      ]
+    }
+  },
+  {
+    "id": "womens-health-checkup_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "womens-health-checkup.json",
+      "golden_chunk": "A cervical cancer screening, which uses a Pap test, an HPV test, or both. The tests can help prevent cervical cancer. A Pap test checks for cervical cancer and for abnormal cells that could turn into cancer. An HPV test looks for the types of HPV which can cause cervical cancer."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ ơi, xét nghiệm Pap và HPV khác nhau thế nào và chúng giúp ích gì trong việc tầm soát ung thư cổ tử cung ạ?",
+      "expected_answer": "Xét nghiệm Pap và HPV đều được dùng để tầm soát và giúp ngăn ngừa ung thư cổ tử cung. Trong đó, xét nghiệm Pap dùng để kiểm tra ung thư cổ tử cung và các tế bào bất thường có khả năng phát triển thành ung thư, còn xét nghiệm HPV dùng để tìm các loại virus HPV có thể gây ra ung thư cổ tử cung.",
+      "evaluation_criteria": [
+        "Phân biệt rõ chức năng của xét nghiệm Pap (tìm tế bào bất thường/ung thư).",
+        "Phân biệt rõ chức năng của xét nghiệm HPV (tìm virus gây ung thư)."
+      ]
+    }
+  },
+  {
+    "id": "womens-health-checkup_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "womens-health-checkup.json",
+      "golden_chunk": "Which tests you get and how often you need them will depend on your age, overall health, and family health history. In some cases, your provider may also recommend other tests as well. For example, if you have a family history of certain cancers, your provider may recommend genetic testing."
+    },
+    "generation_ground_truth": {
+      "user_query": "Tôi nên đi khám phụ khoa định kỳ bao lâu một lần và tôi có cần làm thêm xét nghiệm đặc biệt nào không?",
+      "expected_answer": "Việc bạn cần thực hiện những xét nghiệm nào và tần suất khám định kỳ sẽ tùy thuộc vào độ tuổi, tình trạng sức khỏe tổng quát và tiền sử bệnh lý gia đình của bạn. Trong một số trường hợp, nếu gia đình bạn có tiền sử mắc một số loại ung thư nhất định, bác sĩ có thể khuyến nghị bạn thực hiện thêm xét nghiệm di truyền.",
+      "evaluation_criteria": [
+        "Nêu đủ 3 yếu tố quyết định tần suất và loại xét nghiệm: tuổi tác, sức khỏe tổng quát, tiền sử gia đình.",
+        "Đề cập đến xét nghiệm di truyền trong trường hợp có tiền sử ung thư gia đình."
+      ]
+    }
+  },
+  {
+    "id": "crohns-disease_1",
+    "metadata": {
+      "question_type": "Myth-busting"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "crohns-disease.json",
+      "golden_chunk": "Stress and eating certain foods don't cause the disease, but they can make your symptoms worse."
+    },
+    "generation_ground_truth": {
+      "user_query": "Chào bác sĩ, tôi nghe nói bị stress nhiều và ăn uống không điều độ sẽ gây ra bệnh Crohn, điều này có đúng không ạ?",
+      "expected_answer": "Điều này không chính xác. Căng thẳng (stress) và việc ăn một số loại thực phẩm nhất định không phải là nguyên nhân gây ra bệnh Crohn, tuy nhiên chúng có thể khiến các triệu chứng của bệnh trở nên trầm trọng hơn.",
+      "evaluation_criteria": [
+        "Phải khẳng định rõ stress và thực phẩm không gây ra bệnh",
+        "Phải nêu rõ chúng chỉ làm trầm trọng thêm các triệu chứng"
+      ]
+    }
+  },
+  {
+    "id": "crohns-disease_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "crohns-disease.json",
+      "golden_chunk": "Changing your diet can help reduce symptoms. Your provider may recommend that you make changes to your diet, such as: Avoiding carbonated drinks Avoiding popcorn, vegetable skins, nuts, and other high-fiber foods Drinking more liquids Eating smaller meals more often Keeping a food diary to help identify foods that cause problems"
+    },
+    "generation_ground_truth": {
+      "user_query": "Tôi bị bệnh Crohn và muốn thay đổi chế độ ăn để giảm triệu chứng thì nên lưu ý những gì thưa bác sĩ?",
+      "expected_answer": "Để giúp giảm triệu chứng bệnh Crohn, bạn có thể thay đổi chế độ ăn uống theo các hướng dẫn sau: tránh đồ uống có ga; tránh các thực phẩm giàu chất xơ như bỏng ngô, vỏ rau củ và các loại hạt; uống nhiều nước hơn; chia nhỏ bữa ăn và ăn thường xuyên hơn; đồng thời nên ghi nhật ký thực phẩm để xác định những loại đồ ăn gây ra vấn đề cho bạn.",
+      "evaluation_criteria": [
+        "Liệt kê đầy đủ các thực phẩm cần tránh (đồ uống có ga, thực phẩm giàu chất xơ)",
+        "Đề cập đến việc chia nhỏ bữa ăn và uống nhiều nước",
+        "Nhắc đến việc ghi nhật ký thực phẩm"
+      ]
+    }
+  },
+  {
+    "id": "herpes-simplex_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "herpes-simplex.json",
+      "golden_chunk": "There are two types of HSV: HSV type 1 most commonly causes cold sores. It can also cause genital herpes. HSV type 2 is the usual cause of genital herpes, but it also can infect the mouth."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ cho tôi hỏi virus HSV có mấy loại và mỗi loại thường gây ra bệnh gì ạ?",
+      "expected_answer": "Có hai loại virus HSV: HSV loại 1 thường gây ra mụn rộp ở miệng (cold sores) nhưng cũng có thể gây ra herpes sinh dục; còn HSV loại 2 thường là nguyên nhân gây ra herpes sinh dục, tuy nhiên nó cũng có thể gây nhiễm trùng ở miệng.",
+      "evaluation_criteria": [
+        "Phải nêu rõ có 2 loại HSV",
+        "Phải phân biệt đúng đặc điểm gây bệnh của HSV-1 và HSV-2 theo văn bản"
+      ]
+    }
+  },
+  {
+    "id": "herpes-simplex_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "herpes-simplex.json",
+      "golden_chunk": "The virus can be dangerous in newborn babies or in people with weak immune systems ."
+    },
+    "generation_ground_truth": {
+      "user_query": "Virus gây bệnh herpes này có nguy hiểm với tất cả mọi người như nhau không bác sĩ?",
+      "expected_answer": "Không, virus này có thể gây nguy hiểm đặc biệt đối với trẻ sơ sinh hoặc những người có hệ thống miễn dịch bị suy yếu.",
+      "evaluation_criteria": [
+        "Phải xác định được nhóm đối tượng có nguy cơ cao",
+        "Phải đề cập đến trẻ sơ sinh và người suy giảm miễn dịch"
+      ]
+    }
+  },
+  {
+    "id": "tubal-ligation_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "tubal-ligation.json",
+      "golden_chunk": "The surgery cuts, ties, or seals the fallopian tubes. This blocks the path between the ovaries and the uterus. The sperm cannot reach the egg to fertilize it, and the egg cannot reach the uterus."
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ ơi, thắt ống dẫn trứng thực chất là làm gì và tại sao nó lại ngăn được mang thai ạ?",
+      "expected_answer": "Thắt ống dẫn trứng là một cuộc phẫu thuật thực hiện việc cắt, buộc hoặc niêm phong các ống dẫn trứng. Việc này tạo ra một rào cản ngăn cách giữa buồng trứng và tử cung, khiến tinh trùng không thể tiếp cận trứng để thụ tinh và trứng cũng không thể di chuyển đến tử cung.",
+      "evaluation_criteria": [
+        "Giải thích đúng cơ chế phẫu thuật (cắt, buộc hoặc niêm phong)",
+        "Giải thích đúng lý do ngăn mang thai (chặn đường đi giữa buồng trứng và tử cung)"
+      ]
+    }
+  },
+  {
+    "id": "tubal-ligation_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "tubal-ligation.json",
+      "golden_chunk": "Tubal ligation can sometimes be reversed. The reversal is major surgery, and does not always work."
+    },
+    "generation_ground_truth": {
+      "user_query": "Nếu sau này tôi đổi ý và muốn có con lại thì phẫu thuật thắt ống dẫn trứng có nối lại được không bác sĩ?",
+      "expected_answer": "Việc thắt ống dẫn trứng đôi khi có thể đảo ngược (nối lại) được. Tuy nhiên, đây là một cuộc đại phẫu và không phải lúc nào cũng thành công.",
+      "evaluation_criteria": [
+        "Xác nhận khả năng có thể đảo ngược/nối lại",
+        "Nêu rõ đây là phẫu thuật lớn và không đảm bảo luôn thành công"
+      ]
+    }
+  },
+  {
+    "id": "vitamin-d-deficiency_1",
+    "metadata": {
+      "question_type": "Fact-seeking"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "vitamin-d-deficiency.json",
+      "golden_chunk": "The recommended amounts, in international units (IU), are: Birth to 12 months: 400 IU Children 1-13 years: 600 IU Teens 14-18 years: 600 IU Adults 19-70 years: 600 IU Adults 71 years and older: 800 IU Pregnant and breastfeeding women: 600 IU"
+    },
+    "generation_ground_truth": {
+      "user_query": "Bác sĩ ơi, một người trưởng thành từ 19 đến 70 tuổi thì cần bao nhiêu vitamin D mỗi ngày là đủ ạ?",
+      "expected_answer": "Đối với người trưởng thành trong độ tuổi từ 19 đến 70, lượng vitamin D khuyến nghị cần thiết mỗi ngày là 600 IU.",
+      "evaluation_criteria": [
+        "Thông tin về liều lượng phải chính xác là 600 IU",
+        "Đúng đối tượng độ tuổi từ 19-70"
+      ]
+    }
+  },
+  {
+    "id": "vitamin-d-deficiency_2",
+    "metadata": {
+      "question_type": "Situational"
+    },
+    "retrieval_ground_truth": {
+      "source_file": "vitamin-d-deficiency.json",
+      "golden_chunk": "Breastfed infants, because human milk is a poor source of vitamin D. If you are breastfeeding, give your infant a supplement of 400 IU of vitamin D every day."
+    },
+    "generation_ground_truth": {
+      "user_query": "Tôi đang cho con bú, vậy tôi có cần cho bé dùng thêm vitamin D không và liều lượng thế nào?",
+      "expected_answer": "Có, vì sữa mẹ là nguồn cung cấp vitamin D nghèo nàn, nên nếu bạn đang cho con bú, hãy bổ sung cho trẻ 400 IU vitamin D mỗi ngày.",
+      "evaluation_criteria": [
+        "Phải nêu rõ lý do là sữa mẹ không cung cấp đủ vitamin D",
+        "Liều lượng bổ sung cho trẻ phải chính xác là 400 IU mỗi ngày"
+      ]
+    }
+  }
+]

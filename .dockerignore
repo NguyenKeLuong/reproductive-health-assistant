@@ -1,0 +1,32 @@
+# Git & Config
+.git
+.gitignore
+.dockerignore
+.env
+.env.*
+!.env.example
+
+# Python cache & virtualenvs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Large Datasets & Knowledge Base (runtime downloads or separate mounts)
+data/
+qdrant_data/
+results/
+docs/
+scripts/
+
+# Frontend artifacts
+health-chat-companion/node_modules/
+health-chat-companion/dist/
+
+# Logs & Temporary
+*.log
+scratch/
+scratch.py

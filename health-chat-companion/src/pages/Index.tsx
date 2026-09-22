@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Menu, Wifi, WifiOff, Loader2 } from "lucide-react";
+import { Menu, Wifi, WifiOff, Loader2, Phone } from "lucide-react";
 import { Conversation, HistoryItem, Message } from "@/types/chat";
 import {
   loadActiveId,
@@ -16,11 +16,13 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent } from "@/components/ui/sheet";
 import { useToast } from "@/hooks/use-toast";
 import { cn } from "@/lib/utils";
+import { VoiceCallModal } from "@/components/chat/VoiceCallModal";
 
 const uid = () =>
   typeof crypto !== "undefined" && "randomUUID" in crypto
     ? crypto.randomUUID()
     : Math.random().toString(36).slice(2) + Date.now().toString(36);
+
 
 const titleFromMessage = (text: string) => {
   const t = text.trim().replace(/\s+/g, " ");
@@ -44,6 +46,7 @@ const Index = () => {
   const [streamingId, setStreamingId] = useState<string | null>(null);
   const [isWaiting, setIsWaiting] = useState(false);
   const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [isVoiceCallOpen, setIsVoiceCallOpen] = useState(false);
 
   // Persist
   useEffect(() => saveConversations(conversations), [conversations]);
@@ -90,11 +93,13 @@ const Index = () => {
           ...c,
           updatedAt: Date.now(),
           messages: c.messages.map((m) =>
-            m.id === msgId ? { ...m, content: full } : m
+            m.id === msgId 
+              ? { ...m, content: full.length > m.content.length ? full : m.content } 
+              : m
           ),
         }));
       } else {
-        // If empty, remove the placeholder
+        // If empty, remove the placeholder only if it's still empty
         updateConversation(convId, (c) => ({
           ...c,
           messages: c.messages.filter(
@@ -174,7 +179,7 @@ const Index = () => {
   );
 
   const handleSend = useCallback(
-    (text: string) => {
+    (text: string, image?: string) => {
       if (isWaiting || streamingId) return;
 
       if (status !== "open") {
@@ -193,7 +198,7 @@ const Index = () => {
       if (!convId) {
         const c: Conversation = {
           id: uid(),
-          title: titleFromMessage(text),
+          title: titleFromMessage(text || "Hình ảnh triệu chứng"),
           messages: [],
           createdAt: Date.now(),
           updatedAt: Date.now(),
@@ -208,6 +213,7 @@ const Index = () => {
         id: uid(),
         role: "user",
         content: text,
+        image: image,
         createdAt: Date.now(),
       };
       const assistantMsg: Message = {
@@ -233,7 +239,7 @@ const Index = () => {
                 ...c,
                 title:
                   c.messages.length === 0 || isNew
-                    ? titleFromMessage(text)
+                    ? titleFromMessage(text || "Hình ảnh triệu chứng")
                     : c.title,
                 messages: [...c.messages, userMsg, assistantMsg],
                 updatedAt: Date.now(),
@@ -246,7 +252,7 @@ const Index = () => {
       setStreamingId(assistantMsg.id);
       setIsWaiting(true);
 
-      const ok = send({ message: text, history });
+      const ok = send({ message: text, history, image });
       if (!ok) {
         pendingAssistantRef.current = null;
         setStreamingId(null);
@@ -331,6 +337,15 @@ const Index = () => {
           </div>
 
           <div className="flex items-center gap-2">
+            <Button
+              variant="outline"
+              size="icon"
+              onClick={() => setIsVoiceCallOpen(true)}
+              className="h-9 w-9 rounded-full border-primary/20 hover:bg-primary/10 text-primary"
+              title="Gọi điện tư vấn 1-1"
+            >
+              <Phone className="h-4 w-4" />
+            </Button>
             <ConnectionBadge status={status} />
           </div>
         </header>
@@ -351,6 +366,11 @@ const Index = () => {
               ? "Trợ lý đang trả lời…"
               : "Hỏi điều bạn đang băn khoăn về sức khỏe giới tính…"
           }
+        />
+        <VoiceCallModal 
+          isOpen={isVoiceCallOpen} 
+          onClose={() => setIsVoiceCallOpen(false)} 
+          backendUrl={import.meta.env.VITE_BACKEND_URL} 
         />
       </main>
     </div>

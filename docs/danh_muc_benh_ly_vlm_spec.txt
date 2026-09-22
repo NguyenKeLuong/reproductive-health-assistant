@@ -1,0 +1,219 @@
+================================================================================
+DANH MỤC THU THẬP HÌNH ẢNH BỆNH LÝ BÊN NGOÀI - TRỢ LÝ SỨC KHỎE SINH SẢN
+(EXTERNAL CLINICAL PATHOLOGY SPECIFICATION FOR REPRODUCTIVE HEALTH CHATBOT)
+================================================================================
+
+Tài liệu này định nghĩa danh sách các loại hình ảnh lâm sàng bên ngoài cần thu thập để huấn luyện/kiểm thử cho mô hình VLM của Trợ lý Sức khỏe Sinh sản nhận diện và phân loại.
+
+
+
+Mỗi tệp hình ảnh khi cung cấp/tải lên hệ thống bắt buộc phải đi kèm với thông tin mô tả văn bản (Metadata) tương ứng. Mỗi bức ảnh phải chứa đầy đủ 3 thông tin sau:
+
+1. Tên bệnh lý / Tình trạng: Tên cụ thể của bệnh hoặc vật dụng (Ví dụ: Mụn rộp sinh dục, Vỉ thuốc tránh thai).
+2. Trạng thái / Biểu hiện lâm sàng: Giai đoạn tiến triển hoặc tình trạng của đối tượng trong ảnh (Ví dụ: Giai đoạn trợt loét, Trạng thái bị rách).
+3. Mô tả chi tiết nội dung hiển thị của ảnh: Mô tả trực quan tất cả những gì nhìn thấy được trong ảnh (Ví dụ: Ảnh chụp cận cảnh các nốt loét nông hình tròn, bờ đỏ rỉ dịch mủ vàng nhạt ở niêm mạc âm hộ).
+
+Quy chuẩn này giúp mô hình VLM nhận diện chính xác các đặc điểm thị giác đặc trưng của từng bệnh lý để đưa ra tư vấn y khoa đúng đắn thay vì suy đoán cảm tính.
+
+--------------------------------------------------------------------------------
+DANH MỤC CÁC LOẠI HÌNH ẢNH CẦN THU THẬP
+--------------------------------------------------------------------------------
+
+NHÓM 1: BỆNH LÂY TRUYỀN QUA ĐƯỜNG TÌNH DỤC & DA LIỄU SINH DỤC NGOÀI (STIs & Genital Dermatology)
+
+1. Sùi mào gà (Condyloma Acuminata)
+   - Mô tả biểu hiện: Tổn thương dạng sẩn nhô cao, sùi mềm đơn độc hoặc liên kết thành mảng lớn có bề mặt gồ ghề giống bông súp lơ hoặc mào gà. Màu hồng nhạt, trắng xám hoặc đỏ.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp nốt sùi mào gà giai đoạn sớm (các sẩn nhỏ dưới 2mm ở cơ quan sinh dục ngoài).
+     + Ảnh chụp mảng sùi mào gà tiến triển (cụm sùi lớn hình súp lơ vùng sinh dục, hậu môn).
+     + Ảnh chụp khối sùi mào gà nghiêm trọng (loét, rỉ dịch hoặc chảy máu).
+     + Ảnh chụp sùi mào gà tái phát trên nền sẹo cũ.
+
+2. Mụn rộp sinh dục (Genital Herpes / HSV)
+   - Mô tả biểu hiện: Nhóm mụn nước nhỏ mọc thành chùm trên nền da đỏ xung huyết, gây đau rát nhiều, sau khi vỡ tạo vết loét trợt nông.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp mụn nước sinh dục (chùm mụn nước nhỏ chứa dịch trong suốt).
+     + Ảnh chụp vết trợt loét sinh dục sau khi mụn nước vỡ.
+     + Ảnh chụp tổn thương mụn rộp đang đóng vảy tiết khô.
+
+3. Săng giang mai thời kỳ I (Primary Syphilis Chancre)
+   - Mô tả biểu hiện: Vết loét nguyên phát của bệnh giang mai, đặc trưng bởi vết loét không đau rát, nền cứng.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp vết loét săng giang mai thời kỳ I (vết loét tròn/oval giới hạn rõ, nền cứng, đáy sạch).
+
+4. Hạ cam mềm (Chancroid)
+   - Mô tả biểu hiện: Vết loét sinh dục sâu, gây đau đớn dữ dội, bờ nham nhở, dễ chảy máu khi chạm vào, đáy có mủ bẩn.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp loét hạ cam mềm giai đoạn sớm.
+     + Ảnh chụp loét hạ cam mềm tiến triển (vết loét sâu, bờ nham nhở, đáy đầy mủ).
+     + Ảnh chụp hạch bẹn sưng to hóa mủ (hạch xoài) do hạ cam mềm.
+
+5. Viêm da tiếp xúc / Dị ứng vùng kín (Genital Contact Dermatitis)
+   - Mô tả biểu hiện: Phản ứng viêm đỏ, sưng nề da sau khi tiếp xúc với bao cao su latex, chất bôi trơn, hoặc dung dịch vệ sinh.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp dị ứng da sinh dục cấp tính (sưng đỏ, nổi mụn nước li ti).
+     + Ảnh chụp dị ứng da sinh dục mạn tính (da khô, bong vảy, dày sừng sạm màu).
+
+6. Viêm bao quy đầu & Quy đầu (Balanitis)
+   - Mô tả biểu hiện: Quy đầu và bao quy đầu bị viêm đỏ, nứt da hoặc bám chất bẩn sinh dục.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp viêm quy đầu do nấm Candida (đốm đỏ li ti, bám bựa trắng mịn dạng bã đậu).
+     + Ảnh chụp viêm quy đầu do vi khuẩn (sưng đỏ diện rộng, loét nông rỉ dịch).
+
+7. Viêm âm hộ ngoài (Vulvitis)
+   - Mô tả biểu hiện: Niêm mạc âm hộ ngoài đỏ tấy, sưng nề, có thể có vết xước do gãi hoặc bám dịch tiết trắng.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp viêm âm hộ ngoài do nấm (sưng đỏ, bám giả mạc trắng, có vết trầy xước).
+
+8. Viêm nang lông & Mụn nhọt vùng kín (Folliculitis & Furunculosis)
+   - Mô tả biểu hiện: Nốt mủ chân tóc vùng kín do cạo, tẩy lông hoặc vệ sinh kém.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp viêm nang lông vùng mu (mụn mủ nhỏ tại chân sợi lông).
+     + Ảnh chụp mụn nhọt vùng sinh dục (khối sưng đỏ cứng, đau, đầu nhọt hóa mủ tạo ngòi trắng).
+
+9. Nấm bẹn (Tinea Cruris)
+   - Mô tả biểu hiện: Các mảng hồng ban đỏ, ngứa nhiều ở vùng bẹn đùi.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp nấm bẹn (mảng đỏ vùng bẹn/đùi có bờ viền nhô cao chứa mụn nước, trung tâm bong vảy).
+
+
+NHÓM 2: CHẤT TIẾT & DỊCH TIẾT ĐƯỜNG SINH DỤC (Discharges & Secretions)
+
+1. Khí hư âm đạo bệnh lý (Pathological Vaginal Discharge)
+   - Mô tả biểu hiện: Sự biến đổi về màu sắc, độ đặc/loãng và cấu trúc của dịch tiết âm đạo.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp khí hư do nấm Candida (trắng đục, vón cục như bã đậu bám trên quần lót/băng vệ sinh).
+     + Ảnh chụp khí hư do trùng roi Trichomonas (loãng sủi bọt màu vàng-xanh).
+     + Ảnh chụp khí hư do viêm âm đạo vi khuẩn BV (loãng màu trắng xám bao phủ băng vệ sinh).
+     + Ảnh chụp dịch mủ từ lỗ cổ tử cung (mủ đặc màu vàng hoặc xanh).
+
+2. Dịch nhầy cổ tử cung sinh lý theo chu kỳ (Physiological Cervical Mucus)
+   - Mô tả biểu hiện: Sự thay đổi dịch nhầy sinh lý bình thường theo các giai đoạn của chu kỳ kinh nguyệt để xác định ngày rụng trứng.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp dịch nhầy giai đoạn rụng trứng (trong suốt, loãng, dai kéo sợi dài).
+     + Ảnh chụp dịch nhầy giai đoạn sau rụng trứng (đục trắng hoặc vàng nhạt, đặc dính, không kéo sợi).
+
+3. Máu kinh nguyệt bất thường (Abnormal Menstrual Blood)
+   - Mô tả biểu hiện: Sự biến đổi màu sắc bất thường hoặc xuất hiện các cục máu đông kích thước lớn trong chu kỳ kinh nguyệt.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp máu kinh có cục máu đông lớn (đường kính >2.5cm trên băng vệ sinh).
+     + Ảnh chụp máu kinh màu sắc bất thường (màu nâu đen kéo dài, hoặc hồng nhạt loãng lẫn dịch nhầy).
+
+4. Dịch mủ niệu đạo nam giới (Urethral Discharge)
+   - Mô tả biểu hiện: Dịch mủ hoặc chất nhầy rỉ ra từ đường tiết niệu của nam giới.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp dịch mủ niệu đạo cấp tính do Lậu (lỗ sáo sưng đỏ chảy mủ đặc màu vàng/xanh).
+     + Ảnh chụp dịch nhầy niệu đạo không do lậu (rỉ giọt dịch trong hoặc đục nhẹ lượng ít ở lỗ sáo).
+
+5. Dịch tiết núm vú bất thường (Pathological Nipple Discharge)
+   - Mô tả biểu hiện: Tiết chất dịch bất thường ngoài thời kỳ mang thai và cho con bú.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp dịch tiết núm vú lẫn máu (màu đỏ tươi hoặc hồng).
+     + Ảnh chụp dịch tiết núm vú dạng mủ (vàng đục kèm quầng vú sưng đỏ).
+     + Ảnh chụp tiết sữa bất thường ở núm vú (dịch sữa trắng đục ngoài thai kỳ/cho con bú).
+
+
+NHÓM 3: TUYẾN VÚ & BẤT THƯỜNG CẤU TRÚC NGOÀI (Breast & External Anatomical Anomalies)
+
+1. Viêm vú & Áp xe tuyến vú ngoài da (Mastitis & Breast Abscess)
+   - Mô tả biểu hiện: Tuyến vú sưng tấy đỏ, căng nề, nóng hơn vùng da lành hoặc có ổ mủ phồng lên dưới da.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp viêm vú cấp tính ngoài da (mảng da bầu vú sưng tấy đỏ diện rộng).
+     + Ảnh chụp áp xe vú (bầu vú sưng phồng có ổ mủ căng bóng sắp vỡ hoặc dò mủ).
+
+2. Nứt kẽ núm vú / Nứt cổ gà (Cracked Nipples)
+   - Mô tả biểu hiện: Các vết nứt cơ học xuất hiện ở núm vú trong thời kỳ cho con bú gây đau đớn khi cho con bú.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp nứt núm vú nông (vết nứt nhỏ quanh chân hoặc đỉnh núm vú).
+     + Ảnh chụp nứt núm vú sâu/loét (vết nứt sâu tách đôi núm vú, rỉ máu hoặc đóng vảy tiết).
+
+3. Giãn tĩnh mạch thừng tinh ở bìu (Varicocele)
+   - Mô tả biểu hiện: Các tĩnh mạch tinh bị giãn to ngoằn ngoèo nổi rõ dưới da bìu.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp giãn tĩnh mạch thừng tinh độ III (búi tĩnh mạch giãn to cuộn ngoằn ngoèo gồ dưới da bìu trông như búi giun khi đứng).
+
+4. Bìu sưng to / Tràn dịch tinh mạc (Hydrocele)
+   - Mô tả biểu hiện: Bìu sưng to căng tròn do tích tụ dịch bên trong màng tinh hoàn.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp bìu sưng to (bìu to căng tròn một hoặc hai bên, da bìu căng mỏng nhẵn).
+     + Ảnh chụp nghiệm pháp soi đèn thấu quang (bìu phát sáng đỏ rực khi soi đèn pin sát bìu).
+
+5. Hẹp/Nghẹt bao quy đầu ngoài (Phimosis / Paraphimosis)
+   - Mô tả biểu hiện: Bao quy đầu chít hẹp không lộn được hoặc kẹt nghẹt gây phù nề cơ học.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp hẹp bao quy đầu hoàn toàn (lỗ bao quy đầu chít hẹp che kín lỗ tiểu).
+     + Ảnh chụp nghẹt bao quy đầu (bao quy đầu kẹt sau rãnh quy đầu gây sưng phù nề quy đầu mọng nước).
+
+6. Sa sinh dục nữ ngoài cửa mình (Pelvic Organ Prolapse)
+   - Mô tả biểu hiện: Cổ tử cung và toàn bộ thành âm đạo lộn ngược ra ngoài cửa mình do suy yếu sàn chậu.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp sa sinh dục độ III/IV (khối mô sa hẳn ra ngoài âm hộ, niêm mạc khô ráp, sừng hóa hoặc loét).
+
+7. Sưng tuyến Bartholin (Bartholin's Cyst/Abscess)
+   - Mô tả biểu hiện: Tuyến Bartholin ở một bên âm hộ sưng to, căng tròn gây lệch môi bé âm hộ.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp nang tuyến Bartholin chưa viêm (khối sưng tròn một bên âm hộ, da niêm mạc bình thường).
+     + Ảnh chụp áp xe tuyến Bartholin viêm cấp (khối sưng tấy đỏ căng bóng, hóa mủ ở đầu).
+
+
+NHÓM 4: TRÁNH THAI & KẾ HOẠCH HÓA GIA ĐÌNH (Contraception & Family Planning)
+
+1. Que thử nhanh tại nhà (Home Rapid Test Kits)
+   - Mô tả biểu hiện: Trạng thái hiển thị các vạch màu trên que thử thai hCG hoặc que thử rụng trứng LH.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp que thử thai hCG âm tính (1 vạch C).
+     + Ảnh chụp que thử thai hCG dương tính (2 vạch đậm).
+     + Ảnh chụp que thử thai hCG dương tính yếu (1 vạch C đậm, 1 vạch T mờ nhạt).
+     + Ảnh chụp que thử thai bị lỗi/hỏng (không lên vạch hoặc chỉ lên vạch T).
+     + Ảnh chụp que thử rụng trứng LH dương tính/đạt đỉnh (2 vạch đậm ngang nhau hoặc vạch T đậm hơn C).
+
+2. Điểm cấy que tránh thai dưới da cánh tay
+   - Mô tả biểu hiện: Trạng thái bề mặt da vị trí cấy que tránh thai (thường dài khoảng 4cm gồ nhẹ dưới da).
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp điểm cấy que cấy tránh thai bình thường (vết gồ nhẹ dài 4cm dưới da lành lặn).
+     + Ảnh chụp điểm cấy que tránh thai bị viêm tấy (sưng đỏ, tụ mủ hoặc tụ máu).
+     + Ảnh chụp que cấy tránh thai di lệch (que cấy đâm lệch gồ hẳn đầu que lên da).
+
+3. Bao cao su (Condoms)
+   - Mô tả biểu hiện: Trạng thái rách, thủng hoặc tuột bao cao su.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp bao cao su bình thường (chưa sử dụng hoặc nguyên vẹn sau sử dụng).
+     + Ảnh chụp bao cao su bị rách hoặc thủng lỗ sau khi sử dụng.
+     + Ảnh chụp bao cao su bị tuột kẹt lại ngoài hoặc trong âm đạo.
+
+4. Vỉ thuốc tránh thai (Oral Contraceptive Blisters)
+   - Mô tả biểu hiện: Trạng thái sử dụng thuốc tránh thai trên vỉ để phục vụ tư vấn lịch uống.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp vỉ thuốc tránh thai hàng ngày (loại 21 hoặc 28 viên).
+     + Ảnh chụp vỉ thuốc tránh thai khẩn cấp (loại 1 viên hoặc 2 viên).
+
+5. Cốc nguyệt san & Tampon (Menstrual Cups & Tampons)
+   - Mô tả biểu hiện: Sự cố thiết bị vệ sinh kinh nguyệt bị lệch, rách hoặc kẹt sâu khó lấy ra.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp cốc nguyệt san (nguyên vẹn hoặc gặp sự cố rách, hỏng).
+     + Ảnh chụp tampon (nguyên vẹn hoặc gặp sự cố đứt dây kéo).
+
+
+NHÓM 5: VẾT KHÂU & BIẾN CHỨNG PHẪU THUẬT NGOÀI (Surgical Wound Complications)
+
+1. Biến chứng vết mổ lấy thai ngoài da (Cesarean Wound Complications)
+   - Mô tả biểu hiện: Tình trạng nhiễm trùng, bục chỉ hoặc tụ máu mép vết mổ đẻ ngoài da.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp vết mổ lấy thai bình thường (liền sẹo tốt, khô ráo).
+     + Ảnh chụp vết mổ đẻ bị nhiễm trùng (sưng đỏ, rỉ dịch mủ, bục chỉ hở mép da).
+     + Ảnh chụp vết mổ đẻ bị tụ máu (sưng phồng, tím đen dưới da).
+     + Ảnh chụp sẹo lồi/sẹo phì đại tại vị trí vết mổ đẻ cũ.
+
+2. Biến chứng vết khâu tầng sinh môn (Episiotomy Wound Complications)
+   - Mô tả biểu hiện: Vết rạch khâu tầng sinh môn sau sinh thường bị bục, nhiễm trùng hoặc tụ máu.
+   - Các ảnh chụp cần thu thập:
+     + Ảnh chụp vết khâu tầng sinh môn bị bục đứt chỉ (hở mép da).
+     + Ảnh chụp vết khâu tầng sinh môn bị nhiễm trùng (sưng đỏ tấy, chảy dịch mủ vàng/hôi).
+     + Ảnh chụp vết khâu tầng sinh môn bị tụ máu (sưng to căng phồng màu tím đen).
+
+3. Biến chứng vết cắt bao quy đầu (Circumcision Wound Complications)
+   - Mô tả biểu hiện: Biến chứng phù nề, chảy máu hoặc nhiễm trùng vết cắt khâu.
+   - Các ảnh chụp cụ thể cần thu thập:
+     + Ảnh chụp vết cắt bao quy đầu bình thường (liền sẹo tốt, da khô).
+     + Ảnh chụp vết cắt bao quy đầu bị phù nề nếp da (da quy đầu sưng mọng nước căng tròn).
+     + Ảnh chụp vết cắt bao quy đầu bị nhiễm trùng hoặc bục chỉ (bục chỉ hở da, rỉ mủ hoặc chảy máu).

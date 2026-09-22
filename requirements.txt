@@ -1,0 +1,21 @@
+# ── Core Backend & Web API ──
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+websockets>=11.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.5
+
+# ── AI Services & Agent Protocol ──
+openai>=1.0.0
+mcp>=1.0.0
+
+# ── Speech & Audio (Fallback) ──
+SpeechRecognition>=3.10.0
+
+# ── Vector Search & Data Pipeline ──
+qdrant-client>=1.7.0
+tqdm>=4.66.0
+trafilatura>=1.6.0
+requests>=2.31.0

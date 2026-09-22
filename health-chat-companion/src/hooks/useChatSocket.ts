@@ -1,7 +1,21 @@
 import { useEffect, useRef, useState, useCallback } from "react";
 import { HistoryItem, WSIncoming } from "@/types/chat";
 
-const WS_URL = "ws://localhost:8010/ws/chat";
+const getWsUrl = () => {
+  const envUrl = import.meta.env.VITE_BACKEND_URL;
+  if (envUrl) {
+    // Convert http(s) to ws(s) and ensure it ends with /ws/chat
+    let url = envUrl.replace(/^http/, "ws");
+    if (!url.endsWith("/ws/chat")) {
+      url = url.replace(/\/$/, "") + "/ws/chat";
+    }
+    return url;
+  }
+  const protocol = window.location.protocol === "https:" ? "wss:" : "ws:";
+  return `${protocol}//${window.location.host}/ws/chat`;
+};
+
+const WS_URL = getWsUrl();
 const RECONNECT_DELAY = 2000;
 
 export type WSStatus = "connecting" | "open" | "closed" | "error";
@@ -9,6 +23,7 @@ export type WSStatus = "connecting" | "open" | "closed" | "error";
 interface SendPayload {
   message: string;
   history: HistoryItem[];
+  image?: string;
 }
 
 interface UseChatSocketOptions {
